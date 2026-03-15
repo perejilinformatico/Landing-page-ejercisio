@@ -1,6 +1,14 @@
 section {
     padding: 5rem;
+    margin: 10px    ;
 }
 #mb {
     margin: 2px;
+}
+.card_s {
+    transition: all 0.3s ease-in-out; 
+}
+.card_s:hover {
+ cursor: pointer;  
+ transform: translateY(-10px);
 }
