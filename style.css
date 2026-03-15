@@ -1,12 +1,6 @@
-html {
-    height: 500%;
-    scroll-behavior: smooth;
-    scrollbar-width: 100px;
-    scrollbar-color: black, white;
+section {
+    padding: 5rem;
 }
-body {
-    background: linear-gradient(20deg, rgb(229, 229, 229), rgb(150, 102, 150));
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#mb {
+    margin: 2px;
 }
