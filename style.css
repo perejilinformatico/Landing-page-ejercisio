@@ -12,3 +12,7 @@ section {
  cursor: pointer;  
  transform: translateY(-10px);
 }
+.a__link {
+    text-decoration: none;
+    color: white;
+}
